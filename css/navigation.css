@@ -10,8 +10,13 @@ Programmer: Craig Fouts
 /* Set up menu */
 
 /* remove bullet in front of list items in menu */
+
+.header {
+    background-color: #FF0000;
+}
  
 .header ul {
+    background: #000;
     list-style-type: none;
     margin-top: 0;
     padding-left: 0;
@@ -28,11 +33,11 @@ Programmer: Craig Fouts
 
 .header li a {
     text-decoration: none;
-    color: #333;
+    color: #FFF;
 }
  
 .header li a:hover {
-    background-color: #F4F4F4;
+    background-color: #F00;
 }
 
 /* space around each of the menu items */
@@ -129,6 +134,7 @@ around the menu. You may find it helpful to change 'left' to 'right' to see what
     float: left;
     margin: 0 0 10px 0;
     max-height: none;
+    width: 100%;
 }
 
 .header ul {
