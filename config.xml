@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+	galleryTitle="Ace in the Hole Multisport Event"
+>
+  <image imageURL="images/ace1.jpg"
+	thumbURL="thumbs/ace1_thumb.jpg"
+	linkURL="images/ace1.jpg"
+	linkTarget="_blank">
+	<title>Welcome to Ace in the Hole Multisport Event!</title>
+  </image>
+  <image imageURL="images/ace2.jpg"
+	thumbURL="thumbs/ace2_thumb.jpg"
+	linkURL="images/ace2.jpg"
+	linkTarget="_blank">
+	<caption></caption>
+  </image>
+  <image imageURL="images/ace3.jpg"
+	thumbURL="thumbs/ace3_thumb.jpg"
+	linkURL="images/ace3.jpg"
+	linkTarget="_blank">
+    <title></title>
+    <caption></caption>
+  </image>
+  <image imageURL="images/ace4.jpg"
+	thumbURL="thumbs/ace4_thumb.jpg"
+	linkURL="images/ace4.jpg"
+	linkTarget="_blank">
+	<title>JuiceboxBuilder</title>
+	<caption></caption>
+  </image>
+  <image imageURL="images/ace5.jpg"
+	thumbURL="thumbs/ace5_thumb.jpg"
+	linkURL="images/ace5.jpg"
+	linkTarget="_blank">
+	<title>Features</title>
+    <caption></caption>
+  </image>
+  <image imageURL="images/ace6.jpg"
+	thumbURL="thumbs/ace6_thumb.jpg"
+	linkURL="images/ace6.jpg"
+	linkTarget="_blank">
+	<title>Toggle Overlay</title>
+    <caption></caption>
+  </image>
+  <image imageURL="images/ace7.jpg"
+	thumbURL="thumbs/ace7_thumb.jpg"
+	linkURL="images/ace7.jpg"
+	linkTarget="_blank">
+    <caption></caption>
+  </image>
+  <image imageURL="images/ace8.jpg"
+	thumbURL="thumbs/ace8_thumb.jpg"
+	linkURL="images/ace8.jpg"
+	linkTarget="_blank">
+	<title></title>
+    <caption></caption>
+  </image>
+  <image imageURL="images/ace9.jpg"
+	thumbURL="thumbs/ace9_thumb.jpg"
+	linkURL="images/ace.jpg"
+	linkTarget="_blank">
+    <caption></caption>
+  </image>
+  <image imageURL="images/ace10.jpg"
+	thumbURL="thumbs/ace10_thumb.jpg"
+	linkURL="images/ace10.jpg"
+	linkTarget="_blank">
+	<title></title>
+    <caption></caption>
+  </image>
+</juiceboxgallery>
